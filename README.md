@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @treytipton
-- 👀 I’m interested in automation
+- 🐯 I'm a student at Mizzou!
 - 🌱 I’m currently learning C
 - 📫 How to reach me treytipto@outlook.com
 
