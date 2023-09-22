@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @treytipton
-- 🐯 I'm a sophomore at Mizzou!
+- 🐯 I'm a Junior Computer Science student at Mizzou!
 - 📫 How to reach me: treytipto@outlook.com
 
 <!---
