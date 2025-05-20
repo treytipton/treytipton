@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @treytipton
-- 🐯 I'm a Senior Computer Science student at Mizzou!
-- 📫 How to reach me: treytipto@outlook.com
+- 🐯 I'm a graduate from Mizzou!
+- 📫 You can reach me at treytipto@outlook.com
 
 <!---
 treytipton/treytipton is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
